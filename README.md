@@ -208,6 +208,7 @@ nav ul li a:hover {
 '''
 
 ## OUTPUT
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d15eefae-edbc-4a20-b68a-6090daf2218e" />
 
 
 ## RESULT
