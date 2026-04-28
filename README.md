@@ -50,7 +50,7 @@ Upload to GitHub Pages for free hosting.
 ## PROGRAM
 
 index.html
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -120,11 +120,11 @@ index.html
 
 </body>
 </html>
-
-'''
+```
 
 index.css
-'''
+
+```
 * {
     margin: 0;
     padding: 0;
@@ -204,8 +204,8 @@ nav ul li a:hover {
 .project:hover {
     transform: scale(1.05);
 }
+```
 
-'''
 
 ## OUTPUT
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d15eefae-edbc-4a20-b68a-6090daf2218e" />
